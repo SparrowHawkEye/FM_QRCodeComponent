@@ -28,7 +28,7 @@ body {
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
   -o-border-radius: 8px;
-  box-shadow: 5px 5px 22px 0px hsla(0, 0%, 0%, 0);
+  box-shadow: 5px 5px 22px 0px hsla(0, 0%, 0%, 0.2);
 }
 .card img {
   width: 100%;

@@ -5,9 +5,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
+  - [Table of contents](#table-of-contents)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+    - [Built with](#built-with)
   - [Author](#author)
 
 ### Screenshot
@@ -17,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/SparrowHawkEye/FM_QRCodeComponent)
+- [Live Site URL](https://sparrowhawkeye.github.io/FM_QRCodeComponent/)
 
 ### Built with
 
